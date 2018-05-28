@@ -1,0 +1,10 @@
+{
+  "properties": [
+    {
+      "name": "spring.cloud.consul.cdc.server-name",
+      "type": "java.lang.String",
+      "description": "cdc服务在注册中心注册的名称.",
+      "defaultValue": "cdc-service"
+    }
+  ]
+}
